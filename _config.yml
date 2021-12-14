@@ -9,13 +9,12 @@ disqus_shortname: koraymentesoglu
 # Owner/author information
 owner:
   name:           Contact
-  avatar:         koray.JPG
+  avatar:         
   bio:            
   email:          korayethan@ucla.edu
   github: kmentes
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-131903816-1
-google_verify:
+
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
