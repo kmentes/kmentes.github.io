@@ -1,8 +1,8 @@
 ## Welcome to my page
 
-I am a second year [Electrical Enigneering](https://www.ee.ucla.edu/) student at UCLA.
+I am a second year [Electrical Enigneering](https://www.ee.ucla.edu/) student at [UCLA](https://www.ucla.edu/).
 
-Currently, I am working on computational imaging for microscopy under the supervision of Aydogan Ozcan.
+Currently, I am working on computational imaging for microscopy under the supervision of [Aydogan Ozcan](https://innovate.ee.ucla.edu/prof-ozcan-brief-biosketch.html).
 
 ### Markdown
 
